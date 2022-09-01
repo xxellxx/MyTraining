@@ -218,6 +218,7 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &799628735
 GameObject:
   m_ObjectHideFlags: 0
@@ -413,6 +414,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 9ed664d (Update SampleScene.unity)
 =======
 >>>>>>> parent of 9ed664d (Update SampleScene.unity)
 --- !u!1 &963194225
